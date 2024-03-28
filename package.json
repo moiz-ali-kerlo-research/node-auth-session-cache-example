@@ -1,6 +1,6 @@
 {
   "name": "auth-session-cache-example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "auth session cache example",
   "main": "app.js",
   "scripts": {
